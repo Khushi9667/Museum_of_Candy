@@ -1,4 +1,4 @@
-# 🍭 Museum of Candy
+# Museum of Candy
 
 Welcome to the **Museum of Candy**, a vibrant and responsive landing page designed to celebrate the sweet and colorful world of confectionery. This project showcases modern web design techniques using Bootstrap and custom CSS to create a delightful user experience.
 
